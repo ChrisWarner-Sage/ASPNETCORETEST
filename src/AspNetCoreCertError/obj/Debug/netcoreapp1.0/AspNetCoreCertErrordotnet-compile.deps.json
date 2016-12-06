@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.0/",
-    "signature": "baa1805c56be20f96f4b8f5eaa807f949ce6f0a2"
+    "signature": "6645a2855687d2e74666cb63f7c8bb4e6ca37a45"
   },
   "compilationOptions": {
     "defines": [
@@ -17,7 +17,7 @@
       "AspNetCoreCertError/1.0.0": {
         "dependencies": {
           "Microsoft.NETCore.App": "1.0.1",
-          "BundlerMinifier.Core": "2.2.306",
+          "BundlerMinifier.Core": "2.0.238",
           "Microsoft.AspNetCore.Routing": "1.1.0",
           "Microsoft.AspNetCore.Server.IISIntegration": "1.1.0",
           "Microsoft.AspNetCore.Server.Kestrel": "1.1.0",
@@ -38,10 +38,10 @@
           "AspNetCoreCertError.dll": {}
         }
       },
-      "BundlerMinifier.Core/2.2.306": {
+      "BundlerMinifier.Core/2.0.238": {
         "dependencies": {
           "Microsoft.NETCore.App": "1.0.1",
-          "NUglify": "1.5.1",
+          "NUglify": "1.5.0",
           "Newtonsoft.Json": "9.0.1"
         },
         "compile": {
@@ -1171,7 +1171,7 @@
           "lib/netstandard1.0/Newtonsoft.Json.dll": {}
         }
       },
-      "NUglify/1.5.1": {
+      "NUglify/1.5.0": {
         "dependencies": {
           "NETStandard.Library": "1.6.1",
           "System.Security.Cryptography.Algorithms": "4.3.0"
@@ -2616,7 +2616,7 @@
       "AspNetCoreCertError/1.0.0": {
         "dependencies": {
           "Microsoft.NETCore.App": "1.0.1",
-          "BundlerMinifier.Core": "2.2.306",
+          "BundlerMinifier.Core": "2.0.238",
           "Microsoft.AspNetCore.Routing": "1.1.0",
           "Microsoft.AspNetCore.Server.IISIntegration": "1.1.0",
           "Microsoft.AspNetCore.Server.Kestrel": "1.1.0",
@@ -2637,10 +2637,10 @@
           "AspNetCoreCertError.dll": {}
         }
       },
-      "BundlerMinifier.Core/2.2.306": {
+      "BundlerMinifier.Core/2.0.238": {
         "dependencies": {
           "Microsoft.NETCore.App": "1.0.1",
-          "NUglify": "1.5.1",
+          "NUglify": "1.5.0",
           "Newtonsoft.Json": "9.0.1"
         },
         "runtime": {
@@ -3767,7 +3767,7 @@
           "lib/netstandard1.0/Newtonsoft.Json.dll": {}
         }
       },
-      "NUglify/1.5.1": {
+      "NUglify/1.5.0": {
         "dependencies": {
           "NETStandard.Library": "1.6.1",
           "System.Security.Cryptography.Algorithms": "4.3.0"
@@ -5122,10 +5122,10 @@
       "serviceable": false,
       "sha512": ""
     },
-    "BundlerMinifier.Core/2.2.306": {
+    "BundlerMinifier.Core/2.0.238": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-3MhXe3qLroL+Fe4Uo/7cmtYQ3YPjSHIjfuHxpewVZUdU4mh73wLEKAgf9rr3OLTuEXCbJr8bOBdwjuNwfGR8qw=="
+      "sha512": "sha512-tjE2nfardSLMrW+9v1uql5CTxAEp39ypTumTTt8OXWcKkSViqc1RQAqfuROrVCM1YjqHwe+pdECc+vIioIIjmQ=="
     },
     "Libuv/1.9.1": {
       "type": "package",
@@ -5592,10 +5592,10 @@
       "serviceable": true,
       "sha512": "sha512-U82mHQSKaIk+lpSVCbWYKNavmNH1i5xrExDEquU1i6I5pV6UMOqRnJRSlKO3cMPfcpp0RgDY+8jUXHdQ4IfXvw=="
     },
-    "NUglify/1.5.1": {
+    "NUglify/1.5.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-iYV/OtSs+HgyE/RilY7UvGXYec6r0OJenWlPIdX/IivedVpSSdzxvPvUIyWpiV/6ad7VjantH0/6oaOhAZbaoQ=="
+      "sha512": "sha512-R4arnamkKcmjH3mD6zlUmoQo9ohdm26YTc89Jt+H9iXA42Brb5uPGvcMNrSmnHW1q8Tot/1egyLYCyzry6+GDw=="
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
       "type": "package",
